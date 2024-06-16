@@ -1,9 +1,11 @@
 ---
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&color='483d8b')
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=MEKBANSUKOZINGER's%Github&fontSize=50&color=20:483d8b,800:86ddfc&fontColor=ffffff&fontAlignY=32" />
+
+[![MEKBANSUKOZINGER's GitHub stats](https://github-readme-stats.vercel.app/api?username=MEKBANSUKOZINGER&show_icons=true&theme=radical)](https://github.com/anuraghazr/github-readme-stats)
 
 ---
-[![MEKBANSUKOZINGER's GitHub stats](https://github-readme-stats.vercel.app/api?username=MEKBANSUKOZINGER&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
-<div style="text-align:center; font-size:20px;">Contact</div>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dsblue_jun@khu.ac.kr)](mailto:dsblue_jun@khu.ac.kr)
+## <center>Contact</center>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dsblue_jun@khu.ac.kr)](mailto:dsblue_jun@khu.ac.kr)  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_483d8b_/)
+
