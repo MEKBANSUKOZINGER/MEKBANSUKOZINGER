@@ -5,4 +5,4 @@
 
 ---
 <div style="text-align:center; font-size:20px;">Contact</div>
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dsblue_jun@khu.ac.kr)
